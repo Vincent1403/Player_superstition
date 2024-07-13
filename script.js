@@ -1,4 +1,4 @@
-var audio = new Audio("https://vincent1403.github.io/Sounds/zodiac_shit.mp3");
+var audio = new Audio("https://vincent1403.github.io/Sounds/superstition.mp3");
 
 $('#play-pause-button').on("click",function(){
   if($(this).hasClass('fa-play'))
